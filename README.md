@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **JavaScript and ASP.NET applications**
 
-- 🌱 I’m currently learning **ASP.NET, Docker, Azure Cloud**
+- 🌱 I’m currently learning **ASP.NET, Docker, Azure Cloud, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web and ML projects**
 
