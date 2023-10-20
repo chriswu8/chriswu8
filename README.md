@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A final semester Computer Systems Technology student at BCIT</h3>
+<br /> <br />
 
 - 🔭 I’m currently working on **JavaScript and ASP.NET applications**
 
