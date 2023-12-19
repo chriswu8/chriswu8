@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A final semester Computer Systems Technology student at BCIT</h3>
+<h3 align="center">A BCIT Computer Systems Technology Graduate</h3>
 <br />
 
 - 🔭 I’m currently working on **JavaScript and ASP.NET applications**
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **.NET framework, JavaScript**
 
-- 📫 Reach out to me at **zezemint@gmail.com**
+- 📫 I'm looking for work. Reach out to me at **zezemint@gmail.com**
 
 <p align="left">
 </p>
