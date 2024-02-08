@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **.NET framework, JavaScript**
 
-- 📫 I'm looking for work. Reach out to me at **zezemint@gmail.com**
+- 📫 I'm looking for work. Reach out to me at **christopheryuewu@gmail.com**
 
 <p align="left">
 </p>
